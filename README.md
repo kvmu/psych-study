@@ -13,7 +13,7 @@ My implementation is as follows:
 
 1. Use Python to randomly (uniform distribution) select photos or words.
 2. Use Python to to create 100 formatted LaTeX files with the selected photos or words.
-3. Use a Windows PowerShell script to batch compile the 100 LaTeX files (using pdfLatex, so the outputs are pdfs).
+3. Use a Windows PowerShell script to batch compile the 100 LaTeX files (using pdflatex, so the outputs are pdfs).
 
 Details can be found in generateTeX.py.
 
